@@ -1,5 +1,16 @@
 # Kudomon GO!
-Credit Kudos' Technical Challenge.
+
+## To run program
+- Clone repo to machine,
+- Navigate to root directory,
+- Open IRB & enter `require './lib/main.rb'` ,
+- Interact through method commands (yet to be implemented).
+
+## Progress
+- [x] Part 1 (Due to commitments & short time scale could only spend a couple of hours on this)
+- [ ] Part 2
+- [ ] Part 3
+- [ ] Part 4
 
 ## What is this challenge for?
 We want to understand the way you think about problems, and how you write code to tackle them. We’re not looking for the most efficient algorithmics, we’re looking for the simplest solution. We’re not going to give much in the way of guidance as to the specifics of implementation - if you think a model needs an attribute or a method, you go ahead and do it. You’re in charge.
@@ -43,7 +54,7 @@ At the exact same time, my neighbour Freddy sees the same Kudomon and also tries
 Freddy succeeds and adds the Kudomon to his collection before I’ve finished catching it.
 I now feel sad.
 
-How can we avoid this situation? 
+How can we avoid this situation?
 
 Now imagine instead of just two people, it’s now 1000 people cramming into Central Park to catch the same Kudomon - would the same solution work then?
 
